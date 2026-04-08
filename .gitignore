@@ -1,0 +1,10 @@
+﻿data/
+models/
+mlruns/
+mlflow.db
+notebooks/mlflow.db
+notebooks/mlruns/
+venv/
+__pycache__/
+*.pyc
+.env
